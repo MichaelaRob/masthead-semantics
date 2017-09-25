@@ -1,7 +1,7 @@
 {logo}
 The Solar System
 
-[Stars]
+<link href="Stars" rel="stylesheet">
 [Terrestrial planets]
 [Gas giants]
 [Dwarf planets]
